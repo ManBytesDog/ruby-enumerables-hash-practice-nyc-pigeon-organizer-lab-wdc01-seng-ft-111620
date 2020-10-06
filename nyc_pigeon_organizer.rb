@@ -11,6 +11,6 @@ def nyc_pigeon_organizer(data)
         hash[name][key] << inner_key.to_s
       end
     end
+    hash 
   end
-  hash 
 end
